@@ -8,18 +8,20 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 - Piezo buzzer
 - Button
 
-# Pictures
+## Pictures
 TODO: Add pictures
 
-# Wiring Diagram
+## Wiring Diagram
 TODO: Add wiring diagram.
 
-# Demonstration
+## Demonstration
 TODO: Add demonstration
+
 topics:
 - using buzzer
 - using LED
 - setting up custom times
+- 3d printed case assembly
 
-# License
+## License
 MIT
