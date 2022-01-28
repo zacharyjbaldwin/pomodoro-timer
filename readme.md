@@ -16,6 +16,10 @@ TODO: Add wiring diagram.
 
 # Demonstration
 TODO: Add demonstration
+topics:
+- using buzzer
+- using LED
+- setting up custom times
 
 # License
 MIT
