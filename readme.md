@@ -8,7 +8,9 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 - 20x4 LCD display
 - FC-113 I2C module
 - Piezo buzzer
+- LED
 - Button
+- 3D-printed case
 
 ## Pictures
 TODO: Add pictures
